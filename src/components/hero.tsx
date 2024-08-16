@@ -17,7 +17,7 @@ const Hero = () => {
                     </div>
                     <button
                         className="px-8 py-3 rounded-[31px] text-white bg-accent md:hidden font-semibold text-lg whitespace-nowrap"
-                        onClick={() => window.open("https://tally.so/r/mKoBOV")}
+                        onClick={() => window.open("https://tally.so/r/wk5OXd")}
                     >
                         Register Now
                     </button>
@@ -28,7 +28,7 @@ const Hero = () => {
                         <div
                             className="md:flex hidden cursor-pointer"
                             onClick={() =>
-                                window.open("https://tally.so/r/mKoBOV")
+                                window.open("https://tally.so/r/wk5OXd")
                             }
                         >
                             <p className="font-bold text-2xl">Register Now</p>
@@ -47,7 +47,7 @@ const Hero = () => {
                 <TimeCountDown />
                 <div
                     className="md:hidden flex cursor-pointer justify-center"
-                    onClick={() => window.open("https://tally.so/r/mKoBOV")}
+                    onClick={() => window.open("https://tally.so/r/wk5OXd")}
                 >
                     <p className="font-bold text-2xl">Register Now</p>
                     <Icons.arrow className="" />

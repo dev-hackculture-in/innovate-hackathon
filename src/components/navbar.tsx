@@ -5,7 +5,7 @@ const Navbar = () => {
                 <LogoGroup />
                 <button
                     className="px-8 py-3 rounded-[31px] text-white bg-accent hidden md:block font-semibold text-lg whitespace-nowrap"
-                    onClick={() => window.open("https://tally.so/r/mKoBOV")}
+                    onClick={() => window.open("https://tally.so/r/wk5OXd")}
                 >
                     Register Now
                 </button>
@@ -28,7 +28,7 @@ const LogoGroup = () => {
                 className="h-16 pb-3 md:px-4"
             />
             <img
-                src="https://theaischool.co.in/wp-content/uploads/2024/05/logo-Transparent-black-2048x430.png"
+                src="https://pbs.twimg.com/profile_images/378800000513571480/2a7766e2dce013460b0cf27149e395ca_400x400.jpeg"
                 className="h-16 py-2 md:px-4"
             />
         </div>

@@ -7,7 +7,7 @@ const HeroDesc = () => {
             </p>
             <div className="flex flex-col gap-4">
                 <p className="font-bold text-md md:text-lg">
-                    💰 3 Lakh cash pool prize
+                    💰 18 Lakh cash pool prize
                 </p>
                 <p className="font-bold text-md md:text-lg">
                     🌐 GTM opportunity for your product

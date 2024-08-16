@@ -90,7 +90,9 @@ const Content = () => {
                                     <span
                                         className="underline underline-offset-4 text-accent cursor-pointer"
                                         onClick={() =>
-                                            window.open("https://www.vtion.ai/")
+                                            window.open(
+                                                "https://www.indiamobilecongress.com/"
+                                            )
                                         }
                                     >
                                         DOT & IMC
@@ -164,7 +166,7 @@ const Content = () => {
                                 More Than a Hackathon—An opportunity
                             </h2>
                             <ul className="list-disc">
-                                <li>💰 3 Lakh cash pool prize</li>
+                                <li>💰 18 Lakh cash pool prize</li>
                                 <li>🌟 GTM opportunity for your product</li>
                                 <li>🔍 Mentorship by experts</li>
                             </ul>

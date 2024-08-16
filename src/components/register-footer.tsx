@@ -20,7 +20,7 @@ const RegisterFooter = () => {
                     </button> */}
                     <div
                         className="flex cursor-pointer justify-center items-center gap-2 group"
-                        onClick={() => window.open("https://tally.so/r/mKoBOV")}
+                        onClick={() => window.open("https://tally.so/r/wk5OXd")}
                     >
                         <p className="font-bold text-md md:text-2xl whitespace-nowrap">
                             Register Now

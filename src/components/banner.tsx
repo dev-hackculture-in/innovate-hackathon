@@ -19,7 +19,7 @@ const Banner = () => {
                         <button
                             className="px-6 py-3 rounded-[31px] text-accent bg-white font-semibold text-lg whitespace-nowrap"
                             onClick={() =>
-                                window.open("https://tally.so/r/mKoBOV")
+                                window.open("https://tally.so/r/wk5OXd")
                             }
                         >
                             Register Now

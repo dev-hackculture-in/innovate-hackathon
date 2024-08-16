@@ -7,10 +7,10 @@ const ContactCard = () => {
                         Contact Us:
                     </h1>
 
-                    <h1 className="font-bold text-2xl">Shreyas Aradhya</h1>
+                    <h1 className="font-bold text-2xl">Srinath</h1>
 
                     <div className="flex flex-col items-center justify-center font-medium text-muted-foreground">
-                        <p>+91 9164490878</p>
+                        <p>+91 92468 18843</p>
                     </div>
                 </div>
             </div>
