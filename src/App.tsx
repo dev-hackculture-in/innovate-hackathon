@@ -3,6 +3,7 @@ import ContactCard from "./components/contact-card";
 import Content from "./components/content";
 import Footer from "./components/footer";
 import Hero from "./components/hero";
+import MentorCorousel from "./components/mentor-corousel";
 import Navbar from "./components/navbar";
 import RegisterFooter from "./components/register-footer";
 
@@ -13,6 +14,7 @@ const App = () => {
             <Hero />
             <div>
             <Content />
+            <MentorCorousel />
             <Banner />
             <ContactCard />
             <RegisterFooter />
